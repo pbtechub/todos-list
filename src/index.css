@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.rows {
+    padding: 5px 0;
+}
+
+.table-auto {
+    width: 100%;
+   
+}
+
